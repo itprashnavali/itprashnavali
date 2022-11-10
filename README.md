@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm IT Prashnavali</h1>
 <h3 align="center">Paper Solution - get better grades in BCA, BE, BSc IT, MCA, MSc IT.</h3>
 
-- 👨‍💻 All of my solutions are available at [<a href="https://play.google.com/store/apps/details?id=com.atinfotech.itprashnavali" target="_blank" title="IT Paper Solution" alt="University old paper">IT Prashnavali App</a>](<a href="https://play.google.com/store/apps/details?id=com.atinfotech.itprashnavali" target="_blank" title="IT Paper Solution" alt="University old paper">IT Prashnavali App</a>)
+- 👨‍💻 All of my solutions are available at [<a href="https://play.google.com/store/apps/details?id=com.atinfotech.itprashnavali" target="_blank" title="IT Paper Solution" alt="University old paper">IT Prashnavali App</a>]
 
-- 📝 I regularly write articles on [https://itprashnavali.com/](https://itprashnavali.com/)
+- 📝 I regularly write articles on [https://itprashnavali.com/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
